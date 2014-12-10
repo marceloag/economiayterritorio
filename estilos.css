@@ -1,0 +1,23 @@
+body, html{
+	margin: 0;
+	padding: 0;
+	height: 100%;
+	background-color: #004059;
+}
+
+.full{
+	height: 100%;
+	display: block;
+	background: url("bg.jpg");
+	background-size: cover;
+	box-sizing: content-box;
+	overflow: hidden;
+}
+
+.video{
+	width: 600px;
+	display: block;
+	margin: auto;
+	margin-top: 14%;
+	background-color: white;
+}
